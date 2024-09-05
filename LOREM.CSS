@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.msgbox{
+    height:30vh;
+    width:60%;
+    background-color: white;
+    padding-left: 50px;
+    border: 1px solid brown;
+    padding-top: 5px;
+    padding-right: 50px;
+
+}
+.msgbox>.content{
+    height:98%;
+    width:70%;
+    background-color: rgb(106, 108, 236);
+    border-radius: 25%;
+    border-color: black;
+    border-style: solid;
+    padding-top: 20px;
+}
